@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khadijah</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingquinn" alt="kingquinn" /></a> </p>
 
-- 🔭 I’m currently working on **Orbit**
+- 🔭 I’m currently working on **AI Safety and Governance Research**
 
 - 🌱 I’m currently learning **LLM fine-tuning, Agent Evaluation**
 
