@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yunusakhadija0@gmail.com**
 
-- ⚡ Fun fact **I'm allergic to honey**
+- ⚡ Fun fact **I'm allergic to honey, Naruto is my favourite anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
