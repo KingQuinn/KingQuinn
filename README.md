@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLM fine-tuning, Agent Evaluation**
 
-- 💬 Ask me about **Python, RAG , Gen AI**
+- 💬 Ask me about **Python, LLMs, RAG , ML**
 
 - 📫 How to reach me **yunusakhadija0@gmail.com**
 
